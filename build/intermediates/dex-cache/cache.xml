@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\HUSEN\LoginRetro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055cba68a63c40b544a571fcf32717df28feffea">
+        <dex dex="D:\HUSEN\LoginRetro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25b17b414cccab18f4328af6df4022b2b97a1e3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\HUSEN\LoginRetro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\HUSEN\LoginRetro\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72a5a3959692a7f0a990c7c8a40c44907abe258a\classes.dex" />
+    </item>
+
+</items>

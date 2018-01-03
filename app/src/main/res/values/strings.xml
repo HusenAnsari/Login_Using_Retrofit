@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginRetro</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+
+
+
+
+    <string name="hint_email">Enter Your email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="hint_empty">This field cannot be blank</string>
+    <string name ="error_email">Please enter a valid email</string>
+    <string name="internet_error">Please check your internet connection</string>
+</resources>

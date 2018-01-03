@@ -1,0 +1,7 @@
+#Thu Apr 20 19:34:13 IST 2017
+base.0=D\:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72a5a3959692a7f0a990c7c8a40c44907abe258a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25b17b414cccab18f4328af6df4022b2b97a1e3d\\classes.dex
+base.1=D\:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25b17b414cccab18f4328af6df4022b2b97a1e3d
+file.0=D\:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72a5a3959692a7f0a990c7c8a40c44907abe258a\\classes.dex

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eye_off.png",
+        "source": "D:\\HUSEN\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\eye_off.png"
+    },
+    {
+        "merged": "D:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eye.png",
+        "source": "D:\\HUSEN\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\eye.png"
+    },
+    {
+        "merged": "D:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\key.png",
+        "source": "D:\\HUSEN\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\key.png"
+    },
+    {
+        "merged": "D:\\HUSEN\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\account.png",
+        "source": "D:\\HUSEN\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\account.png"
+    },
+    {
+        "merged": "F:\\webDemo\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eye_off.png",
+        "source": "F:\\webDemo\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\eye_off.png"
+    },
+    {
+        "merged": "F:\\webDemo\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eye.png",
+        "source": "F:\\webDemo\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\eye.png"
+    },
+    {
+        "merged": "F:\\webDemo\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\account.png",
+        "source": "F:\\webDemo\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\account.png"
+    },
+    {
+        "merged": "F:\\webDemo\\LoginRetro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\key.png",
+        "source": "F:\\webDemo\\LoginRetro\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\key.png"
+    }
+]

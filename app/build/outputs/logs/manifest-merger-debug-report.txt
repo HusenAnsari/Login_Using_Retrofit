@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Husen Ansari\.android\build-cache\2b8ade3c5b68ed4e43a9d7fbdefdd541759608fd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Husen Ansari\.android\build-cache\59d448ae781824a47912ccbfde017f88550fa326\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\76b055ab3d08f3316360ee540ae57751b4abd4f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Husen Ansari\.android\build-cache\9b8638f4de560749e1b25d4edcff5e446393fdd4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Husen Ansari\.android\build-cache\735555ca6d539d69c5c9674a9fcd259a0935a494\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3c069f61e7d394f2837add73051526fae154846e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\88aeb27b17590ab34e2de9a8609b3a0bfb23e823\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3e69a473664284819302ea6950ac7af3f3836440\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Husen Ansari\.android\build-cache\6e420e42b89b73c24baff4ca4f0eb2c266188c49\output\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Husen Ansari\.android\build-cache\068764407d43348b15c379c37245a9aa4be2ec6c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:8:9-45
+activity#com.example.gulamhusen.loginretro.ui.LoginActivity
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:15:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.gulamhusen.loginretro.ui.ProfileActivity
+ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml:22:19-53
+uses-sdk
+INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Husen Ansari\.android\build-cache\2b8ade3c5b68ed4e43a9d7fbdefdd541759608fd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Husen Ansari\.android\build-cache\59d448ae781824a47912ccbfde017f88550fa326\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\76b055ab3d08f3316360ee540ae57751b4abd4f6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Husen Ansari\.android\build-cache\9b8638f4de560749e1b25d4edcff5e446393fdd4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Husen Ansari\.android\build-cache\735555ca6d539d69c5c9674a9fcd259a0935a494\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3c069f61e7d394f2837add73051526fae154846e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\88aeb27b17590ab34e2de9a8609b3a0bfb23e823\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3e69a473664284819302ea6950ac7af3f3836440\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Husen Ansari\.android\build-cache\6e420e42b89b73c24baff4ca4f0eb2c266188c49\output\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Husen Ansari\.android\build-cache\068764407d43348b15c379c37245a9aa4be2ec6c\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+		INJECTED from F:\webDemo\LoginRetro\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Husen Ansari\.android\build-cache\2b8ade3c5b68ed4e43a9d7fbdefdd541759608fd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Husen Ansari\.android\build-cache\59d448ae781824a47912ccbfde017f88550fa326\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\76b055ab3d08f3316360ee540ae57751b4abd4f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Husen Ansari\.android\build-cache\9b8638f4de560749e1b25d4edcff5e446393fdd4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Husen Ansari\.android\build-cache\735555ca6d539d69c5c9674a9fcd259a0935a494\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3c069f61e7d394f2837add73051526fae154846e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Husen Ansari\.android\build-cache\88aeb27b17590ab34e2de9a8609b3a0bfb23e823\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Husen Ansari\.android\build-cache\3e69a473664284819302ea6950ac7af3f3836440\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Husen Ansari\.android\build-cache\41150be09eb803e83b7c43c28fd5efe316609cdf\output\AndroidManifest.xml:26:9-47
